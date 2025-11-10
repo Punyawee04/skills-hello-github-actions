@@ -28,8 +28,10 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 
 
-   
-trigger run
+
+
+
+
 
 <footer>
 
